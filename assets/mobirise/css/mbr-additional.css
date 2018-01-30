@@ -1668,12 +1668,12 @@ body {
 }
 .cid-qHKrOLIXAx .nav-link:hover,
 .cid-qHKrOLIXAx .dropdown-item:hover {
-  color: #e4d295 !important;
+  color: #073b4c !important;
 }
 .cid-qHKULGA12U {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/lisboa1-2000x1588.jpg");
+  background-image: url("../../../assets/images/img-9279-2000x1542.jpg");
 }
 .cid-qHKULGA12U .media-container-column {
   align-items: center;
@@ -1703,6 +1703,7 @@ body {
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
+  border-radius: 0;
 }
 .cid-qHKULGA12U .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
@@ -1779,10 +1780,13 @@ body {
 .cid-qHL5A52C5o P {
   text-align: center;
 }
+.cid-qHL5A52C5o .mbr-section-title B {
+  color: #073b4c;
+}
 .cid-qHQ5ifbVMm {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-qHQ5ifbVMm .row-links {
   width: 100%;
@@ -2236,12 +2240,12 @@ body {
 }
 .cid-qHKrOLIXAx .nav-link:hover,
 .cid-qHKrOLIXAx .dropdown-item:hover {
-  color: #e4d295 !important;
+  color: #073b4c !important;
 }
 .cid-qHLx2yiu1R {
   padding-top: 135px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/trgua-1338x646.png");
+  background-image: url("../../../assets/images/pan-gym-2-2000x331.jpg");
 }
 .cid-qHLx2yiu1R .mbr-text,
 .cid-qHLx2yiu1R .mbr-section-btn {
@@ -2294,7 +2298,7 @@ body {
 .cid-qHQ5lj102i {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-qHQ5lj102i .row-links {
   width: 100%;
@@ -2748,7 +2752,7 @@ body {
 }
 .cid-qHKrOLIXAx .nav-link:hover,
 .cid-qHKrOLIXAx .dropdown-item:hover {
-  color: #e4d295 !important;
+  color: #073b4c !important;
 }
 .cid-qHQ5RZNzW8 {
   padding-top: 120px;
@@ -2756,6 +2760,9 @@ body {
   background-color: #ffffff;
 }
 .cid-qHQ5RZNzW8 .mbr-section-subtitle {
+  color: #073b4c;
+}
+.cid-qHQ5RZNzW8 B {
   color: #073b4c;
 }
 .cid-qHQ6AYCZTM {
@@ -2885,7 +2892,7 @@ body {
 .cid-qHQ7YgA3TD {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-qHQ7YgA3TD .row-links {
   width: 100%;
@@ -3339,7 +3346,7 @@ body {
 }
 .cid-qHKrOLIXAx .nav-link:hover,
 .cid-qHKrOLIXAx .dropdown-item:hover {
-  color: #e4d295 !important;
+  color: #073b4c !important;
 }
 .cid-qI7Gg9KTXv {
   padding-top: 120px;
@@ -3449,7 +3456,7 @@ body {
 .cid-qHMJWZ9nnv {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-qHMJWZ9nnv .row-links {
   width: 100%;
