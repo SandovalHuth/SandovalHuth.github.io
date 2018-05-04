@@ -3651,7 +3651,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/rgaua-bn-1197x15938.png",
+                "image": "@PROJECT_PATH@/assets/images/rgaua-bn-1197x159311.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
