@@ -4278,3 +4278,16 @@ body {
 .cid-qOIIiYKj8j .content-slider-wrap {
   width: 73%;
 }
+.cid-qR4BUqGJsZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qR4BUqGJsZ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qR4BUqGJsZ .video-block {
+    width: 100% !important;
+  }
+}
